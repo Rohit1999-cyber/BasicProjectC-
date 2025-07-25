@@ -1,0 +1,14 @@
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\bin\Debug\net9.0\CSharpMasterClass.exe
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\bin\Debug\net9.0\CSharpMasterClass.deps.json
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\bin\Debug\net9.0\CSharpMasterClass.runtimeconfig.json
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\bin\Debug\net9.0\CSharpMasterClass.dll
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\bin\Debug\net9.0\CSharpMasterClass.pdb
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\CSharpMasterClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\CSharpMasterClass.AssemblyInfoInputs.cache
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\CSharpMasterClass.AssemblyInfo.cs
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\CSharpMasterClass.csproj.CoreCompileInputs.cache
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\CSharpMasterClass.dll
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\refint\CSharpMasterClass.dll
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\CSharpMasterClass.pdb
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\CSharpMasterClass.genruntimeconfig.cache
+C:\Users\sonir\OneDrive\Documents\CSharpMasterClass\obj\Debug\net9.0\ref\CSharpMasterClass.dll
