@@ -1,0 +1,15 @@
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\bin\Debug\net9.0\CSharpPractice.exe
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\bin\Debug\net9.0\CSharpPractice.deps.json
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\bin\Debug\net9.0\CSharpPractice.runtimeconfig.json
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\bin\Debug\net9.0\CSharpPractice.dll
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\bin\Debug\net9.0\CSharpPractice.pdb
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.AssemblyInfoInputs.cache
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.AssemblyInfo.cs
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.sourcelink.json
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.dll
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\refint\CSharpPractice.dll
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.pdb
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\CSharpPractice.genruntimeconfig.cache
+C:\Users\sonir\OneDrive\Documents\CSharpPractice\obj\Debug\net9.0\ref\CSharpPractice.dll
